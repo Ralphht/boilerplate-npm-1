@@ -1,6 +1,5 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Ralph",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,5 +13,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"author": {
+		"name": "Ralph Halford-Thompson"
 	}
 }
